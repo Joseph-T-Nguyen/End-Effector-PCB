@@ -16,3 +16,5 @@ Final product
 ![](img2.jpg)
 
 # Demo
+https://github.com/Joseph-T-Nguyen/End-Effector-PCB/assets/129492079/8da5807f-2e12-4f5f-809e-6b58b53f5fc9
+
