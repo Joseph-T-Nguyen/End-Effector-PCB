@@ -1,5 +1,5 @@
 # End-Effector-PCB
-A custom PCB to control the End Effector of the rover arm for Monash Nova Rover. 
+A custom PCB to control the End Effector of the rover arm for Monash Nova Rover. Full schematic and release files can be found in 'Schematic.pdf' and 'FinalRelease.zip' respectively.
 
 The PCB contains an integrated 4-port USB hub IC, 3 motor drivers and a laser diode controller circuit powered by a linear voltage regulator IC. 
 
